@@ -45,3 +45,5 @@
 
 # email history files
 **/*~
+
+riscv/assembly/build
